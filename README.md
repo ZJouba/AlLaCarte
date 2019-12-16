@@ -1,2 +1,10 @@
 # AlLaCarte
-A virtual recipe book that integrates automatic link parsing, tagging and sharing of recipes
+## A virtual recipe book 
+
+Features:
+* Integrated automatic link parsing
+* Automatic sorting by starter, main, dessert etc.
+* Automatic and manual tagging i.e. gluten-free, low calory, quick, easy, cheap etc.
+* Sharing of recipes similar to spotify playlists
+* Themes
+* Printing option
