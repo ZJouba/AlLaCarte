@@ -8,3 +8,5 @@ Features:
 * Sharing of recipes similar to spotify playlists
 * Themes
 * Printing option
+* Note facilities
+* Change recipe quantities and text feature (for oumas)
