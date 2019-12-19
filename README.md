@@ -10,3 +10,4 @@ Features:
 * Printing option
 * Note facilities
 * Change recipe quantities and text feature (for oumas)
+* Metric and imperial conversion
